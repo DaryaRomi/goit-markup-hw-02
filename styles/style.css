@@ -1,16 +1,28 @@
 body{
     font-family: "Open Sans", sans-serif;
-    font-family: "Raleway", sans-serif;
+    background: grey;
 }
-h1{
-    font-family: "Raleway", sans-serif;
+.list{
+    list-style: none;
 }
-h2{
-    font-family: "Raleway", sans-serif;
+
+.header-list {
+font-family: inherit;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.1em;
+color: orangered
 }
-h3{
-    font-family: "Raleway", sans-serif;
+
+.list:hover,
+.list:focus
+{
+    color: blanchedalmond;
 }
-p{
-    font-family: "Open Sans", sans-serif; 
+
+.adress{
+    font-family: "Roboto", sans-serif;
+    color: blue;
 }
