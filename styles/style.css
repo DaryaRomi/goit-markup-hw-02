@@ -1,0 +1,31 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background: grey;
+}
+.list{
+    list-style: none;
+}
+
+.header-list {
+font-family: inherit;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.1em;
+color: orangered
+}
+.button{
+box-sizing: border-box;
+
+position: absolute;
+left: 84.87%;
+right: 1.45%;
+top: 5.88%;
+bottom: 88.24%;
+
+border: 1px solid #FF6C00;
+border-radius: 25px;
+    color:orange
+}
+
