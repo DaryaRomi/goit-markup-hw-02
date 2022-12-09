@@ -15,14 +15,17 @@ line-height: 16px;
 letter-spacing: 0.1em;
 color: orangered
 }
+.button{
+box-sizing: border-box;
 
-.list:hover,
-.list:focus
-{
-    color: blanchedalmond;
+position: absolute;
+left: 84.87%;
+right: 1.45%;
+top: 5.88%;
+bottom: 88.24%;
+
+border: 1px solid #FF6C00;
+border-radius: 25px;
+    color:orange
 }
 
-.adress{
-    font-family: "Roboto", sans-serif;
-    color: blue;
-}
