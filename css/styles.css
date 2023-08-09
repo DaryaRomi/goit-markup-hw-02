@@ -60,13 +60,9 @@ color: #FFFFFF;
     border-radius: 4px;
     color: #FFFFFF;
 }
-.Section2{
-    font-family: 'Roboto';
-    font-style: normal;
-    letter-spacing: 0.02em;
-}
+
 .Section2-main{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
