@@ -4,7 +4,7 @@ body{
     color: #434455;
 }
 .header{
-    font-family: 'Raleway', sans-serif;
+    ont-family: 'Raleway', sans-serif;
 }
 .header_logo{
     font-family: 'Raleway', sans-serif;
@@ -16,18 +16,32 @@ body{
     color: #4d5ae5;
 }
 .header-list{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
-.header-logo:hover{
+.header-list:hover{
     color: #404bbf;
 }
-.header-logo:focus{
+.header-list:focus{
     color: #404bbf;
 }
+.header-address{
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-address:hover{
+    color: #404bbf;
+}
+.header-address:focus{
+    color: #404bbf;
+}
+
 .section1{
     background-color: #2e2f42;
 }
