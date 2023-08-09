@@ -101,8 +101,10 @@ body{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.Section3-p{
+.Section3-background{
     background-color: #FFFFFF;
+}
+.Section3-ppp{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
