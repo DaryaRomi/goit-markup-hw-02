@@ -33,14 +33,8 @@ body{
 .Line1{
     color: #2e2f42;
 }
-.Line2{
-    color: #2e2f42;
-}
-.Line3{
-    color: #2e2f42;
-}
-.header-list:hover,
-.header-list:focus{
+.header-list.Line1:hover,
+.header-list.Line1:focus{
     background-color: #404bbf;
 }
 .header-address{
