@@ -11,7 +11,7 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    background-color: #4d5ae5;
+    color: #4d5ae5;
 }
 .Studio{
     color: #2e2f42;
@@ -29,10 +29,10 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color:#2e2f42;
+    color:#2e2f42;
 }
-.header-list.Line1:hover,
-.header-list.Line1:focus{
+.header-list:hover,
+.header-list:focus{
     color: #404bbf;
 }
 .header-address{
