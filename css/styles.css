@@ -36,14 +36,13 @@ body{
     color: #404bbf;
 }
 .header-address{
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address.header-links:hover,
-.header-address.header-links:focus{
+.header-address:hover,
+.header-address:focus{
     color: #404bbf;
 }
 
