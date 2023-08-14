@@ -55,7 +55,7 @@ body{
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    background-color: #ffffff;
 }
 .section1-btn{
     background-color: #4D5AE5;
@@ -64,7 +64,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;
+    background-color: #ffffff;
     cursor: pointer;
 }
 .section1-btn:hover{
