@@ -11,7 +11,7 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    background-color: #4d5ae5;
 }
 .Studio{
     color: #2e2f42;
@@ -29,14 +29,11 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#2e2f42;
-}
-.Line1{
-    background-color: #2e2f42;
+    background-color:#2e2f42;
 }
 .header-list.Line1:hover,
 .header-list.Line1:focus{
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .header-address{
     font-style: normal;
@@ -45,10 +42,8 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address:hover{
-    color: #404bbf;
-}
-.header-address:focus{
+.header-address.header-links:hover,
+.header-address.header-links:focus{
     color: #404bbf;
 }
 
