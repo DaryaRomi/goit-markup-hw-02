@@ -39,11 +39,9 @@ body{
 .Line3{
     color: #2e2f42;
 }
-.header-list:hover{
-    color: #404bbf;
-}
+.header-list:hover,
 .header-list:focus{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 .header-address{
     font-style: normal;
