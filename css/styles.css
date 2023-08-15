@@ -30,22 +30,29 @@ body{
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.linea:hover,
+.linea:hover{
+    color: #404bbf;
+}
 .linea:focus{
     color: #404bbf;
 }
 .headeraddress{
     font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
 }
 .headeraddress:hover,
 .headeraddress:focus{
     color: #404bbf;
 }
-
+.one{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.one:hover,
+.one:focus{
+    color: #404bbf;
+}
 .section-first{
     background-color: #2e2f42;
 }
