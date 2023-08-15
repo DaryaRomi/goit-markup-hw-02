@@ -12,7 +12,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.span-class{
+.spanclass{
     color: #2e2f42;
 }
 .header-logo{
@@ -34,15 +34,14 @@ body{
 .linea:focus{
     color: #404bbf;
 }
-.header-address{
-    font-style: normal;
+.headeraddress{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-address:hover,
-.header-address:focus{
+.headeraddress:hover,
+.headeraddress:focus{
     color: #404bbf;
 }
 
