@@ -47,10 +47,10 @@ body{
     color: #404bbf;
 }
 
-.Section1{
+.section1{
     background-color: #2e2f42;
 }
-.Section1-header{
+.section1-header{
     background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
@@ -75,31 +75,31 @@ body{
     background-color: #404BBF;
 }
 
-.Section2{
+.section2{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
-.Section2-header{
+.section2-header{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
 }
-.Section2-text{
+.section2-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.Section3{
+.section3{
     background-color: #F4F4FD
 }
-.Section3-header{
+.section3-header{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -107,17 +107,17 @@ body{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.Section3-background{
+.section3-background{
     background-color: #FFFFFF;
 }
-.Section3-ppp{
+.section3-ppp{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.Section3-text{
+.section3-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
