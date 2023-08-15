@@ -11,12 +11,11 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
 }
 .span-class{
     color: #2e2f42;
 }
-.header_logo{
+.header-logo{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
